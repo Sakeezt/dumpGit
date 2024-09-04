@@ -1,4 +1,4 @@
-dump git
+dump gitLab
 
 1.yarn install
 
