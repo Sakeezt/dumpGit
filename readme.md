@@ -14,6 +14,6 @@ const ACCESS_TOKEN = '...' Token
 const baseDir = '...' ที่อยู่บันทึกไฟล์
 
 
-## 3 yarn start
+## 3 node dumpgit.js
 
 ## Done
