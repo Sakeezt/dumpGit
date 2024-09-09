@@ -1,16 +1,19 @@
-dump gitLab
+# dump gitLab
 
-1.yarn install
-
-
-2.set
-
-const GITLAB_BASE_URL = ''; 
-const GROUP_ID = '';
-const ACCESS_TOKEN = '';
-const baseDir = '';
+## 1.yarn install or npm install
 
 
-3 yarn start
+## 2.set config
 
-Done
+const GITLAB_BASE_URL = '...'  URL หลัก `www.git.....com` 
+
+const GROUP_ID = '...' เลขกลุ่ม
+
+const ACCESS_TOKEN = '...' Token 
+
+const baseDir = '...' ที่อยู่บันทึกไฟล์
+
+
+## 3 yarn start
+
+## Done
